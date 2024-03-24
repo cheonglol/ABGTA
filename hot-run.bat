@@ -1,0 +1,1 @@
+cd ./output-folder && node main.js
