@@ -1,2 +1,4 @@
-echo "gregory here"
-cd ./output-folder && node main.js
+echo "gregory here" &
+cd ./output-folder &
+node main.js &
+cd ..
