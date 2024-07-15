@@ -8,6 +8,8 @@ Reference Links
 
 - [Linkedin | Time Complexity vs. Space Complexity](https://www.linkedin.com/pulse/time-complexity-vs-space-sumaiya-rimu/?trackingId=oFipENKRQmiU4WzcGiPSDQ%3D%3D)
 
+- [Data Structures and Algorithms in X minutes](https://youtube.com/@michaelsambol?si=gOIW5uA4t2ifse84)
+
 ---
 
 > **Phind suggested config**
