@@ -1,5 +1,8 @@
-function greet(name: string): string {
-    return `Hello, ${name}!`;
-}
+import { calculateExecutionTime } from "./utils"
 
-console.log(greet("World Gregory"));
+calculateExecutionTime(() => {
+    let data = "sadasdddddddddddddadsasdasdas"
+    for (let index = 0; index < data.length; index++) {
+        console.log(data[index]?.charCodeAt(0))
+    }
+})        
